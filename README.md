@@ -1,6 +1,6 @@
-# [FCC Salon Appointment Scheduler](https://www.freecodecamp.org/learn/relational-database/build-a-salon-appointment-scheduler-project/build-a-salon-appointment-scheduler)
+# [FCC Periodic Table](https://www.freecodecamp.org/learn/relational-database/build-a-periodic-table-database-project/build-a-periodic-table-database)
 
-This was put together for the Relational Database (Beta) course on [FCC](https://www.freecodecamp.org/learn/relational-database/#learn-bash-and-sql-by-building-a-bike-rental-shop). 
+This was put together for the Relational Database (Beta) course on [FCC](https://www.freecodecamp.org/learn/relational-database/). 
 The aim was to:
 * alter the schema of a PostgreSQL database
 * create an interactive Bash program that uses a PostgreSQL database.
